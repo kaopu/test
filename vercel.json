@@ -1,6 +1,5 @@
 {
   "redirects": [
-    { "source": "/github/(.*)", "destination": "https://github.com/$1" },
-    { "source": "https://v.yihui.org/(.*)", "destination": "https://yihui.org/$1", "permanent": false }
+    { "source": "/github/(.*)", "destination": "https://github.com/$1" }
   ]
 }
